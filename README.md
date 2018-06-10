@@ -1,8 +1,6 @@
 Temporary Water Pump Control for Arduino
 =======================================
 
-MQ135 & ADS1115 Working on Raspberry Pi. Measurement in PPM.
-
 Equipment used:
 * Arduino Nano.
 * ZS-042 Real-time Clock Module
